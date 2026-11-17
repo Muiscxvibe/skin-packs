@@ -107,6 +107,10 @@
         }
       ],
       "id": "gaming-legends-modern-2029",
+      "lce": {
+        "dlc_id": 2029,
+        "skin_count": 104
+      },
       "name": "Gaming Legends Modern",
       "version": "1"
     },

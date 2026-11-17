@@ -192,6 +192,21 @@
       "id": "touhou-2021",
       "name": "Touhou",
       "version": "1"
+    },
+    {
+      "description": "Trailer Park",
+      "files": [
+        {
+          "asset": "SkinPack.pck",
+          "path": "SkinPack.pck",
+          "sha256": "df47cdddc88c5913af95857dd12e75b83d1c71ff2f78f0e3834f1d4e39fd0bef",
+          "size": 17296,
+          "url": "https://github.com/Muiscxvibe/skin-packs/releases/download/trailer-park-2023-v1/SkinPack.pck"
+        }
+      ],
+      "id": "trailer-park-2023",
+      "name": "Trailer Park",
+      "version": "1"
     }
   ],
   "repo": "skin-packs",

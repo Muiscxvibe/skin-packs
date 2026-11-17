@@ -1,5 +1,20 @@
 {
-  "items": [],
+  "items": [
+    {
+      "description": "Custom Gre skin pack",
+      "files": [
+        {
+          "path": "SkinPack.pck",
+          "sha256": "d3945f2759ad16ba68d5e40df7c07f3a8a0b2ce8526c6e795ce827cc2f401c44",
+          "size": 16891,
+          "url": "https://github.com/Muiscxvibe/skin-packs/releases/download/gre-skin-v1/SkinPack.pck"
+        }
+      ],
+      "id": "gre-skin",
+      "name": "Gre Skin",
+      "version": "1"
+    }
+  ],
   "repo": "skin-packs",
   "schema": 1,
   "type": "skin-pack"

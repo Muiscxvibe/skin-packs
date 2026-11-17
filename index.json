@@ -177,6 +177,10 @@
         }
       ],
       "id": "rick-morty-classic-2026",
+      "lce": {
+        "dlc_id": 2026,
+        "skin_count": 7
+      },
       "name": "Rick Morty Classic",
       "version": "1"
     },

@@ -88,6 +88,10 @@
         }
       ],
       "id": "gaming-legends-classic-2025",
+      "lce": {
+        "dlc_id": 2025,
+        "skin_count": 13
+      },
       "name": "Gaming Legends Classic",
       "version": "1"
     },

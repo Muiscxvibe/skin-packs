@@ -16,6 +16,21 @@
       "version": "1"
     },
     {
+      "description": "Classic Youtubers",
+      "files": [
+        {
+          "asset": "SkinPack.pck",
+          "path": "SkinPack.pck",
+          "sha256": "0bbc5a3136000fc26d7259c6de7453f243ff0ffe16c018eb6340d12043e46e8f",
+          "size": 6281,
+          "url": "https://github.com/Muiscxvibe/skin-packs/releases/download/classic-youtubers-2027-v1/SkinPack.pck"
+        }
+      ],
+      "id": "classic-youtubers-2027",
+      "name": "Classic Youtubers",
+      "version": "1"
+    },
+    {
       "description": "Custom Gre skin pack (flat style)",
       "files": [
         {

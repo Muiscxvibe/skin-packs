@@ -31,6 +31,10 @@
         }
       ],
       "id": "classic-youtubers-2027",
+      "lce": {
+        "dlc_id": 2027,
+        "skin_count": 3
+      },
       "name": "Classic Youtubers",
       "version": "1"
     },

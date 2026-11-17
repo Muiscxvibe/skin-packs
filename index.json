@@ -69,6 +69,10 @@
         }
       ],
       "id": "fabulous-beasts-modern-2031",
+      "lce": {
+        "dlc_id": 2031,
+        "skin_count": 15
+      },
       "name": "Fabulous Beasts Modern",
       "version": "1"
     },

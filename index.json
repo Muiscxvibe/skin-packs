@@ -76,6 +76,21 @@
       "version": "1"
     },
     {
+      "description": "Gaming Legends Modern",
+      "files": [
+        {
+          "asset": "SkinPack.pck",
+          "path": "SkinPack.pck",
+          "sha256": "2bd46b41627569b9e3a695044b5d168d32227f9fc972828562d2b7bcc719eeec",
+          "size": 256034,
+          "url": "https://github.com/Muiscxvibe/skin-packs/releases/download/gaming-legends-modern-2029-v1/SkinPack.pck"
+        }
+      ],
+      "id": "gaming-legends-modern-2029",
+      "name": "Gaming Legends Modern",
+      "version": "1"
+    },
+    {
       "description": "Custom Gre skin pack (flat style)",
       "files": [
         {

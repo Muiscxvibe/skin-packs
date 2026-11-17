@@ -153,6 +153,25 @@
       "version": "1"
     },
     {
+      "description": "by Draco12191712 (Vivaan Bobade) with the Decayed Team, MIT, https://github.com/Draco12191712-VivaanBobade/Decayed-Reality-Skin-Pack (retrieved 2026-11-17)",
+      "files": [
+        {
+          "asset": "SkinPack.pck",
+          "path": "SkinPack.pck",
+          "sha256": "2fedff77e3ec9033be41030875f86a84c9a78d6cf7856cf5f0762e6a5622d406",
+          "size": 14849,
+          "url": "https://github.com/Muiscxvibe/skin-packs/releases/download/decayed-folk-vi-3006-v1/SkinPack.pck"
+        }
+      ],
+      "id": "decayed-folk-vi-3006",
+      "lce": {
+        "dlc_id": 3006,
+        "skin_count": 8
+      },
+      "name": "Decayed Folk VI",
+      "version": "1"
+    },
+    {
       "description": "Fabulous Beasts Modern",
       "files": [
         {

@@ -139,6 +139,25 @@
         {
           "asset": "SkinPack.pck",
           "path": "SkinPack.pck",
+          "sha256": "974c079ddf31ecb90367e4d0cc56a5a883edddcea6f7e70d177bdb01c6644af7",
+          "size": 15209,
+          "url": "https://github.com/Muiscxvibe/skin-packs/releases/download/decayed-folk-ix-3009-v1/SkinPack.pck"
+        }
+      ],
+      "id": "decayed-folk-ix-3009",
+      "lce": {
+        "dlc_id": 3009,
+        "skin_count": 8
+      },
+      "name": "Decayed Folk IX",
+      "version": "1"
+    },
+    {
+      "description": "by Draco12191712 (Vivaan Bobade) with the Decayed Team, MIT, https://github.com/Draco12191712-VivaanBobade/Decayed-Reality-Skin-Pack (retrieved 2026-11-17)",
+      "files": [
+        {
+          "asset": "SkinPack.pck",
+          "path": "SkinPack.pck",
           "sha256": "27474322d51435f2c8ced037b58102f04dc4e7b246c0475864cb222158e8330d",
           "size": 16355,
           "url": "https://github.com/Muiscxvibe/skin-packs/releases/download/decayed-folk-v-3005-v1/SkinPack.pck"

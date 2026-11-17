@@ -253,6 +253,10 @@
         }
       ],
       "id": "trailer-park-2023",
+      "lce": {
+        "dlc_id": 2023,
+        "skin_count": 13
+      },
       "name": "Trailer Park",
       "version": "1"
     }

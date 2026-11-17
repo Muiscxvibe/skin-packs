@@ -46,6 +46,21 @@
       "version": "1"
     },
     {
+      "description": "Fabulous Beasts Modern",
+      "files": [
+        {
+          "asset": "SkinPack.pck",
+          "path": "SkinPack.pck",
+          "sha256": "158c185e353dcf4e546ea624c284efdfc1ec55935e87950c3a3db9670d7074ee",
+          "size": 25153,
+          "url": "https://github.com/Muiscxvibe/skin-packs/releases/download/fabulous-beasts-modern-2031-v1/SkinPack.pck"
+        }
+      ],
+      "id": "fabulous-beasts-modern-2031",
+      "name": "Fabulous Beasts Modern",
+      "version": "1"
+    },
+    {
       "description": "Custom Gre skin pack (flat style)",
       "files": [
         {

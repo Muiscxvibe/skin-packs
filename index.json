@@ -117,6 +117,21 @@
       "id": "gre-skin",
       "name": "Gre Skin",
       "version": "1"
+    },
+    {
+      "description": "Miku Friends Classic",
+      "files": [
+        {
+          "asset": "SkinPack.pck",
+          "path": "SkinPack.pck",
+          "sha256": "f66fe8252b35900b77eac72031523b782ea9ddebd418d4d863e7cb977dc56051",
+          "size": 9089,
+          "url": "https://github.com/Muiscxvibe/skin-packs/releases/download/miku-friends-classic-2028-v1/SkinPack.pck"
+        }
+      ],
+      "id": "miku-friends-classic-2028",
+      "name": "Miku Friends Classic",
+      "version": "1"
     }
   ],
   "repo": "skin-packs",

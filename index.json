@@ -158,6 +158,10 @@
         }
       ],
       "id": "miku-friends-classic-2028",
+      "lce": {
+        "dlc_id": 2028,
+        "skin_count": 5
+      },
       "name": "Miku Friends Classic",
       "version": "1"
     },

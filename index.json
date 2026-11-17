@@ -1,20 +1,5 @@
 {
-  "items": [
-    {
-      "description": "temp",
-      "files": [
-        {
-          "path": "SkinPack.pck",
-          "sha256": "4125f0c024100e34bd2df616a321501a96146664bb047e005b1371ca18c10060",
-          "size": 300000,
-          "url": "https://github.com/Muiscxvibe/skin-packs/releases/download/dl-selftest-v2/SkinPack.pck"
-        }
-      ],
-      "id": "dl-selftest",
-      "name": "Downloader self-test",
-      "version": "2"
-    }
-  ],
+  "items": [],
   "repo": "skin-packs",
   "schema": 1,
   "type": "skin-pack"

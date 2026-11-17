@@ -125,6 +125,10 @@
         }
       ],
       "id": "gre-flat-skin",
+      "lce": {
+        "dlc_id": 2002,
+        "skin_count": 13
+      },
       "name": "Gre Flat Skin",
       "version": "1"
     },

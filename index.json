@@ -177,6 +177,21 @@
       "id": "story-mode-modern-2030",
       "name": "Story Mode Modern",
       "version": "1"
+    },
+    {
+      "description": "Touhou",
+      "files": [
+        {
+          "asset": "SkinPack.pck",
+          "path": "SkinPack.pck",
+          "sha256": "0143be3ed490e2af8e45794ac677e7e60fc9f10041a7dce6c2835da401799a12",
+          "size": 10833,
+          "url": "https://github.com/Muiscxvibe/skin-packs/releases/download/touhou-2021-v1/SkinPack.pck"
+        }
+      ],
+      "id": "touhou-2021",
+      "name": "Touhou",
+      "version": "1"
     }
   ],
   "repo": "skin-packs",

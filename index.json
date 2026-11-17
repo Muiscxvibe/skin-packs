@@ -50,6 +50,10 @@
         }
       ],
       "id": "classic-youtubers-modern-2032",
+      "lce": {
+        "dlc_id": 2032,
+        "skin_count": 6
+      },
       "name": "Classic Youtubers Modern",
       "version": "1"
     },

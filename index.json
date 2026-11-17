@@ -234,6 +234,10 @@
         }
       ],
       "id": "touhou-2021",
+      "lce": {
+        "dlc_id": 2021,
+        "skin_count": 7
+      },
       "name": "Touhou",
       "version": "1"
     },

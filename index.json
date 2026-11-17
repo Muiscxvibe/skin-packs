@@ -147,6 +147,21 @@
       "id": "rick-morty-classic-2026",
       "name": "Rick Morty Classic",
       "version": "1"
+    },
+    {
+      "description": "Source",
+      "files": [
+        {
+          "asset": "SkinPack.pck",
+          "path": "SkinPack.pck",
+          "sha256": "c9f8e68d6270bfc66ecaea6ea3ad26497066e29a276ddafb34a1ca3557e55c21",
+          "size": 32482,
+          "url": "https://github.com/Muiscxvibe/skin-packs/releases/download/source-2022-v1/SkinPack.pck"
+        }
+      ],
+      "id": "source-2022",
+      "name": "Source",
+      "version": "1"
     }
   ],
   "repo": "skin-packs",

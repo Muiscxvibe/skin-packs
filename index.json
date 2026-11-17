@@ -162,6 +162,21 @@
       "id": "source-2022",
       "name": "Source",
       "version": "1"
+    },
+    {
+      "description": "Story Mode Modern",
+      "files": [
+        {
+          "asset": "SkinPack.pck",
+          "path": "SkinPack.pck",
+          "sha256": "477ba06b2e4e02dd0df07b17ae529c378e2c24635557753f622d1e364a7a42db",
+          "size": 44733,
+          "url": "https://github.com/Muiscxvibe/skin-packs/releases/download/story-mode-modern-2030-v1/SkinPack.pck"
+        }
+      ],
+      "id": "story-mode-modern-2030",
+      "name": "Story Mode Modern",
+      "version": "1"
     }
   ],
   "repo": "skin-packs",

@@ -61,6 +61,21 @@
       "version": "1"
     },
     {
+      "description": "Gaming Legends Classic",
+      "files": [
+        {
+          "asset": "SkinPack.pck",
+          "path": "SkinPack.pck",
+          "sha256": "8654e660eae4d84804a28cdf0982720ddb72f6e59a845569fe3b020c8aca5f33",
+          "size": 24851,
+          "url": "https://github.com/Muiscxvibe/skin-packs/releases/download/gaming-legends-classic-2025-v1/SkinPack.pck"
+        }
+      ],
+      "id": "gaming-legends-classic-2025",
+      "name": "Gaming Legends Classic",
+      "version": "1"
+    },
+    {
       "description": "Custom Gre skin pack (flat style)",
       "files": [
         {

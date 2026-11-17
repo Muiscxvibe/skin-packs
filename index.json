@@ -1,6 +1,21 @@
 {
   "items": [
     {
+      "description": "420",
+      "files": [
+        {
+          "asset": "SkinPack.pck",
+          "path": "SkinPack.pck",
+          "sha256": "ce8d337d3607eb232eedb57a8c2ce0455e17bb7280484a0d95c5b5334874361e",
+          "size": 16341,
+          "url": "https://github.com/Muiscxvibe/skin-packs/releases/download/420-2024-v1/SkinPack.pck"
+        }
+      ],
+      "id": "420-2024",
+      "name": "420",
+      "version": "1"
+    },
+    {
       "description": "Custom Gre skin pack (flat style)",
       "files": [
         {

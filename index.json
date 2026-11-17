@@ -215,6 +215,10 @@
         }
       ],
       "id": "story-mode-modern-2030",
+      "lce": {
+        "dlc_id": 2030,
+        "skin_count": 23
+      },
       "name": "Story Mode Modern",
       "version": "1"
     },

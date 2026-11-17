@@ -132,6 +132,21 @@
       "id": "miku-friends-classic-2028",
       "name": "Miku Friends Classic",
       "version": "1"
+    },
+    {
+      "description": "Rick Morty Classic",
+      "files": [
+        {
+          "asset": "SkinPack.pck",
+          "path": "SkinPack.pck",
+          "sha256": "aa1159bbb3f027ee16f822bbae668ae56635881627fef0c31784880bc5940bfd",
+          "size": 7230,
+          "url": "https://github.com/Muiscxvibe/skin-packs/releases/download/rick-morty-classic-2026-v1/SkinPack.pck"
+        }
+      ],
+      "id": "rick-morty-classic-2026",
+      "name": "Rick Morty Classic",
+      "version": "1"
     }
   ],
   "repo": "skin-packs",

@@ -1,6 +1,20 @@
 {
   "items": [
     {
+      "description": "Custom Gre skin pack (flat style)",
+      "files": [
+        {
+          "path": "SkinPack.pck",
+          "sha256": "5af34fd43b1c3b3d7da1ebdce13701544c2753eb71cb46bd352cc24dc0f7085a",
+          "size": 16681,
+          "url": "https://github.com/Muiscxvibe/skin-packs/releases/download/gre-flat-skin-v1/SkinPack.pck"
+        }
+      ],
+      "id": "gre-flat-skin",
+      "name": "Gre Flat Skin",
+      "version": "1"
+    },
+    {
       "description": "Custom Gre skin pack",
       "files": [
         {
